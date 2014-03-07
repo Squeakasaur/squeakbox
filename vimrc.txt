@@ -1,0 +1,7 @@
+highlight Comment ctermfg=Cyan
+highlight Constant ctermfg=lightGreen
+highlight Normal ctermfg=cyan
+highlight NonText ctermfg=magenta
+highlight Special ctermfg=yellow
+highlight Cursor ctermfg=White
+
